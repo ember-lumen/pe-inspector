@@ -1,0 +1,22 @@
+# Visual Studio 本地缓存与编译产物
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.vsidx
+*.VC.db
+*.VC.opendb
+*.ipch
+*.ilk
+*.pdb
+*.obj
+*.tlog
+*.recipe
+*.log
+*.lastbuildstate
+
+# 可执行文件
+*.exe
+*.o
